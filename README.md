@@ -4,6 +4,11 @@
 ## 🤑 Aditional:
 I am a trading enthusiast who has already made small profits but continues to learn new things. If you want to see my analysis and trading activity, check out my TradingView link.
 
+ 
+### 💹 TRADING IDEA
+<img src="https://es.tradingview.com/i/A5EqsAx4/" width="720px"/>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jonas.b0891/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jonas.b0891/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonasbonilla/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/jonasb0891) 
 
@@ -19,9 +24,6 @@ I am a trading enthusiast who has already made small profits but continues to le
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/jonasb0891)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
- 
-### 💹 TRADING IDEA
-<img src="https://es.tradingview.com/i/A5EqsAx4/" width="790px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jonasbonilla&icon=8&color=0)](https://visitcount.itsvg.in)
