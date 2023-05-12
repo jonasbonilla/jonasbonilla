@@ -17,12 +17,9 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/jonasb0891)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+ 
 ### 😂 Random Dev Meme
-<img src="https://es.tradingview.com/i/mp2hBm7J/" width="512px"/>
+<img src="https://es.tradingview.com/i/A5EqsAx4/" width="790px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jonasbonilla&icon=8&color=0)](https://visitcount.itsvg.in)
