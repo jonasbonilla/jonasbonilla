@@ -18,7 +18,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/jonasb0891)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
  
-### 😂 Random Dev Meme
+### 💹 TRADING IDEA
 <img src="https://es.tradingview.com/i/A5EqsAx4/" width="790px"/>
 
 ---
