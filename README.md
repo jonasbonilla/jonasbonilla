@@ -1,8 +1,31 @@
-# 💫 About Me:
-💛 Results-Oriented and Teamwork:<br>Demonstrated ability to work collaboratively in software development projects.<br>Focused on delivering high-quality results<br><br><br>🖥️ Software/DevOps Engineer<br>🐧 Forex & Investment Enthusiast<br><br>⚡I'm currently working at a local development company.<br><br>⚡I'm looking to collaborate with other projects/developers.<br>⚡Some of my skills include:<br><br>✅.NET Framework/.NET Core: Application development utilizing the .NET ecosystem.<br>Extensive experience in development using languages such as C# and VB.NET.<br>Familiarity with ASP.NET Core's Blazor for building robust and scalable web applications.<br><br>✅Python: Proficient in developing solutions using Python.<br>Experience in script design and implementation, as well as web development with Django.<br><br>✅Java: Experienced in Java application development, including Android applications using Java and the Android SDK.<br><br>✅MAUI .NET: Currently exploring MAUI .NET for cross-platform mobile application development.<br>Acquiring knowledge in creating modern and appealing user interfaces, sharing code across different platforms.<br><br>✅Databases: Proficient in designing and developing relational databases using SQL.<br>Experience with database engines such as Microsoft SQL Server, MySQL, and PostgreSQL.
+# Hola, soy Jonás
 
+¡Bienvenido/a a mi perfil de GitHub! Soy un ingeniero de sistemas apasionado por la programación y las tecnologías emergentes.
 
-## 🌐 Socials:
+### Habilidades
+
+- **Lenguajes de Programación:** .NET, Dart, Python
+- **Frameworks/Librerías:** .net MAUI, Flutter, Odoo 17, Django
+- **Desarrollo Web:** HTML, CSS, JavaScript, Python
+- **Base de Datos:** SQL SERVER, MySQL, PostgreSQL
+- **Otros:** Git, Docker, AWS
+
+### Proyectos Destacados
+
+- **Sistema de Gestión Empresarial con Odoo 17**
+  - Desarrollo de módulos personalizados para diferentes gestiones.
+  
+- **Aplicación Web con .NET y React**
+  - Implementación de aplicaciones multiplataforma utilizando .NET  (WinUI 3, MAUI,  UNO).
+
+### Afinidades Tecnológicas y del Criptouniverso
+
+- Apasionado por las tecnologías disruptivas y el criptouniverso.
+- Investigador activo en blockchain y contratos inteligentes.
+- Interesado en aprender más sobre Bitcoin y sus posibilidades.
+
+### Contacto
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonas.b0891) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonas.b0891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonasbonilla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonasb0891) 
 
 # 💻 Tech Stack:
