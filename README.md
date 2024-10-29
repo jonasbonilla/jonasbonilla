@@ -15,7 +15,7 @@
 - **Sistema de Gestión Empresarial con Odoo 17**
   - Desarrollo de módulos personalizados para diferentes gestiones.
   
-- **Aplicación Web con .NET y React**
+- **Aplicación Web con .NET, Blazor**
   - Implementación de aplicaciones multiplataforma utilizando .NET  (WinUI 3, MAUI,  UNO).
 
 ### Afinidades Tecnológicas y del Criptouniverso
