@@ -4,11 +4,10 @@
 
 ### Habilidades
 
-- **Lenguajes de Programación:** .NET, Dart, Python
-- **Frameworks/Librerías:** .net MAUI, Flutter, Odoo 17, Django
-- **Desarrollo Web:** HTML, CSS, JavaScript, Python
+- **Lenguajes de Programación:** Python, .NET, Dart, JS
+- **Frameworks/Librerías:** .net MAUI, Flutter, Odoo 17
 - **Base de Datos:** SQL SERVER, MySQL, PostgreSQL
-- **Otros:** Git, Docker, AWS
+- **Otros:** Git, Docker
 
 ### Proyectos Destacados
 
