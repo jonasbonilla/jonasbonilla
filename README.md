@@ -53,8 +53,6 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
 * **Cloud:** Familiaridad con plataformas como **Azure** y **AWS** para el despliegue y gestión de soluciones.
 * **Orquestación:** Conocimientos básicos en **Kubernetes** para la automatización del despliegue y escalado de aplicaciones.
 
----
-
 ### 🚀 Proyectos Destacados
 
 <table width="100%">
