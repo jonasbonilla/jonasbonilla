@@ -19,9 +19,9 @@
 
 ---
 
-### 👋 ¡Hola, soy Jonás!
+### 👋 Hi, I'm Jonás 👋. 
 
-I am a Software Developer and Systems Engineer. I design and build end-to-end technological solutions that combine efficiency and innovation. I’m continuously learning new tools and technologies to apply them to real-world problems.
+I'm a software developer specialized in building and customizing business management solutions, from back-end logic with Django and .NET to complex ERP implementations with Odoo. I thrive on solving complex problems and automating processes
 
 ---
 
@@ -29,12 +29,14 @@ I am a Software Developer and Systems Engineer. I design and build end-to-end te
 
 My experience covers a broad spectrum of technologies, enabling me to design, develop, and deploy robust and scalable software solutions.
 
-**Programming Languages**
+**Expertise**
 
-* **Python:** Backend development, scripting, and process automation.
-* **C#:** Building high-performance applications within the .NET ecosystem.
-* **JavaScript:** Developing dynamic, modern web user interfaces.
-* **Dart:** Creating high-performance, cross-platform applications using Flutter.
+* **Back-End:** Python, Django, .NET
+* **ERP/CRM:** Odoo (OWL, XML-RPC)
+* **Front-End & Mobile:** JavaScript, Flutter
+* **Databases:** PostgreSQL, SQL Server
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/jonasbonilla) or check out my work on my [Personal Portfolio](http://biiasolutions.com/).
 
 **Frameworks and Platforms**
 
