@@ -1,4 +1,4 @@
-# Desarrollador de Software | Full-Stack
+# Software Developer | Full-Stack Engineer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -21,40 +21,43 @@
 
 ### 👋 ¡Hola, soy Jonás!
 
-Soy desarrollador de software e Ingeniero de Sistemas. Me dedico a crear soluciones tecnológicas de principio a fin, combinando eficiencia e innovación. Siempre estoy aprendiendo sobre nuevas herramientas y tecnologías para aplicarlas a problemas reales
+I am a Software Developer and Systems Engineer. I design and build end-to-end technological solutions that combine efficiency and innovation. I’m continuously learning new tools and technologies to apply them to real-world problems.
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Technology Stack
 
-Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseñar, desarrollar y desplegar soluciones de software robustas y escalables.
+My experience covers a broad spectrum of technologies, enabling me to design, develop, and deploy robust and scalable software solutions.
 
-**Lenguajes de Programación**
-* **Python:** Desarrollo de backends, scripts y automatización de procesos.
-* **C#:** Creación de aplicaciones de alto rendimiento dentro del ecosistema .NET.
-* **JavaScript:** Construcción de interfaces de usuario dinámicas y modernas para la web.
-* **Dart:** Desarrollo de aplicaciones multiplataforma de alto rendimiento con Flutter.
+**Programming Languages**
 
-**Frameworks y Plataformas**
-* **Odoo (v16-18):** Amplia experiencia en el desarrollo y personalización de módulos ERP, utilizando su framework y la **Odoo Web Library (OWL)** para el frontend.
-* **.NET:** Desarrollo de aplicaciones web, de escritorio y APIs con **ASP.NET Core**, y aplicaciones web interactivas con **Blazor**.
-* **Flutter:** Creación de interfaces nativas compiladas para móvil, web y escritorio desde una única base de código.
-* **Node.js:** Construcción de servicios backend y APIs eficientes.
-* **Frontend Web:** Experiencia con librerías como **React** y **Vue.js** para el desarrollo de Single Page Applications (SPA).
+* **Python:** Backend development, scripting, and process automation.
+* **C#:** Building high-performance applications within the .NET ecosystem.
+* **JavaScript:** Developing dynamic, modern web user interfaces.
+* **Dart:** Creating high-performance, cross-platform applications using Flutter.
 
-**Bases de Datos**
-* **Relacionales:** Sólida experiencia en diseño, optimización y gestión de **SQL Server**, **PostgreSQL** y **MySQL**.
-* **NoSQL:** Manejo de bases de datos orientadas a documentos como **MongoDB** para soluciones que requieren flexibilidad y escalabilidad.
+**Frameworks and Platforms**
 
-**DevOps, Cloud y Arquitecturas**
-* **Contenerización:** Uso de **Docker** para crear, gestionar y desplegar aplicaciones en contenedores, garantizando la consistencia entre entornos.
-* **Arquitectura de APIs:** Diseño y construcción de **APIs RESTful** seguras, eficientes y escalables.
-* **CI/CD:** Implementación de flujos de integración y despliegue continuo con herramientas como **GitHub Actions**.
-* **Cloud:** Familiaridad con plataformas como **Azure** y **AWS** para el despliegue y gestión de soluciones.
-* **Orquestación:** Conocimientos básicos en **Kubernetes** para la automatización del despliegue y escalado de aplicaciones.
+* **Odoo (v16–18):** Extensive experience in developing and customizing ERP modules, leveraging its framework and the **Odoo Web Library (OWL)** for frontend development.
+* **.NET:** Development of web, desktop, and API applications using **ASP.NET Core**, as well as interactive web apps with **Blazor**.
+* **Flutter:** Building natively compiled interfaces for mobile, web, and desktop from a single codebase.
+* **Node.js:** Developing efficient backend services and APIs.
+* **Web Frontend:** Skilled in libraries such as **React** and **Vue.js** for building Single Page Applications (SPAs).
 
-### 🚀 Proyectos Destacados
+**Databases**
 
+* **Relational:** Strong experience in the design, optimization, and management of **SQL Server**, **PostgreSQL**, and **MySQL**.
+* **NoSQL:** Proficient in document-oriented databases such as **MongoDB**, ideal for flexible and scalable solutions.
+
+**DevOps, Cloud, and Architectures**
+
+* **Containerization:** Using **Docker** to build, manage, and deploy containerized applications, ensuring environment consistency.
+* **API Architecture:** Designing and developing secure, efficient, and scalable **RESTful APIs**.
+* **CI/CD:** Implementing continuous integration and deployment pipelines using tools like **GitHub Actions**.
+* **Cloud:** Familiar with **Azure** and **AWS** platforms for solution deployment and management.
+* **Orchestration:** Basic knowledge of **Kubernetes** for automating deployment and scaling of applications.
+
+### 🚀 Featured Projects
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -62,8 +65,8 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
         <img src="./static/img/odoo.webp" alt="Módulos para Odoo"/>
       </a>
       <br/>
-      <strong>Módulos para Odoo, en NOSOLOTEC S.A.</strong>
-      <p>Desarrollo módulos a medida para Odoo que se ajustan a las necesidades de los clientes de la empresa.</p>
+      <strong>Custom Odoo Modules, at NOSOLOTEC S.A.</strong>
+      <p>Developed tailor-made Odoo modules designed to meet the specific needs of the company’s clients.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
@@ -75,8 +78,8 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
         <img src="./static/img/flutter.webp" alt="Apps Flutter"/>
       </a>
       <br/>
-      <strong>Apps Flutter, en NOSOLOTEC S.A.</strong>
-      <p>Aplicación móvil de tipo WMS para un clientes de la empresa.</p>
+      <strong>Flutter Apps, at NOSOLOTEC S.A.</strong>
+      <p>Developed a WMS-type mobile application for one of the company’s clients.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -90,8 +93,8 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
         <img src="./static/img/sofadcon.webp" alt="SofAdCon software contable"/>
       </a>
       <br/>
-      <strong>Contribuciones en SofAdCon Cía. Ltda.</strong>
-      <p>Ex miembro del equipo de desarrollo de SofAdCon en su versión Web y Móbil con .NET (Blazor & MAUI).</p>
+      <strong>Contributions at SofAdCon Cía. Ltda.</strong>
+      <p>Former member of the development team for SofAdCon’s Web and Mobile versions, built with .NET (Blazor & MAUI).</p>
       <p align="center">
         <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
         <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
@@ -103,8 +106,8 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
         <img src="./static/img/giros.webp" alt="Calculadora de giros"/>
       </a>
       <br/>
-      <strong>Calculadora de Giros para LatinVOIP</strong>
-      <p>Aplicación web para el cálculo de comisiones de giros a Colombia, Venezuela y más.</p>
+      <strong>Remittance Calculator for LatinVOIP</strong>
+      <p>Web application for calculating remittance commissions to Colombia, Venezuela, and other countries.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -115,7 +118,7 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
 </table>
 ---
 
-### ⛓️ Explorando el Universo Cripto y Blockchain
+### ⛓️ Exploring the Crypto and Blockchain Universe
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
@@ -123,12 +126,13 @@ Mi experiencia abarca un amplio espectro de tecnologías, permitiéndome diseña
   <img src="https://img.shields.io/badge/Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="Tether"/>
 </p>
 
-Apasionado por el potencial disruptivo de la tecnología blockchain y el ecosistema de las criptomonedas.
+Passionate about the disruptive potential of blockchain technology and the cryptocurrency ecosystem.
 
-* **Investigador Activo:** Profundizando en los fundamentos de la tecnología de contabilidad distribuida (DLT), finanzas descentralizadas (DeFi) y la tokenización de activos.
-* **Contratos Inteligentes:** Interesado en el desarrollo y auditoría de contratos inteligentes en plataformas como Ethereum.
-* **Bitcoin y Capas de Innovación:** Estudiando las capacidades de Bitcoin como reserva de valor y las soluciones de escalabilidad de segunda capa como la Lightning Network.
-### Contacto
+* **Active Researcher:** Exploring the fundamentals of Distributed Ledger Technology (DLT), Decentralized Finance (DeFi), and asset tokenization.
+* **Smart Contracts:** Interested in the development and auditing of smart contracts on platforms such as Ethereum.
+* **Bitcoin and Innovation Layers:** Studying Bitcoin’s role as a store of value and second-layer scalability solutions like the Lightning Network.
+
+### Contact
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonas.b0891) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonas.b0891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonasbonilla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonasb0891) 
 
