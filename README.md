@@ -105,10 +105,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/jonasbonilla) or check
     </td>
      <td width="50%" valign="top">
       <a href="#" target="_blank">
-        <img src="./static/img/giros.webp" alt="Calculadora de giros"/>
+        <img src="./static/img/latin.webp" alt="Plataforma de giros (odoo)"/>
       </a>
       <br/>
-      <strong>Remittance Calculator for LatinVOIP</strong>
+      <strong>Remittance App for Latinvoip</strong>
       <p>Web application for calculating remittance commissions to Colombia, Venezuela, and other countries.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
