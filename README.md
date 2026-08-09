@@ -1,142 +1,122 @@
-# Software Developer | Full-Stack Engineer
+# Software Engineer | Odoo & Full-Stack Development
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-  <img src="https://img.shields.io/badge/OWL-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="OWL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/API%20REST-orange?style=for-the-badge" alt="API REST"/>
-</p>
+### 👋 Hi, I'm Jonás
+
+I'm a software engineer focused on **business applications, ERP development, and process automation**.
+
+I specialize in **Odoo development**, building and customizing ERP solutions with Python, PostgreSQL, XML, and OWL. I also develop backend and full-stack applications using **.NET, Django, JavaScript, and modern web technologies**.
+
+I enjoy turning complex business requirements into reliable software, integrating systems through APIs, and automating processes that humans probably shouldn't have to repeat 400 times a day.
 
 ---
 
-### 👋 Hi, I'm Jonás 👋. 
+## 🛠️ Core Technologies
 
-I'm a software developer specialized in building and customizing business management solutions, from back-end logic with Django and .NET to complex ERP implementations with Odoo. I thrive on solving complex problems and automating processes
+### ERP & Business Applications
+
+* **Odoo 16–18**
+* Python
+* Odoo ORM
+* OWL
+* XML / QWeb
+* XML-RPC / API integrations
+* Business process automation
+
+### Backend
+
+* **Python / Django**
+* **C# / ASP.NET Core**
+* Node.js
+* REST APIs
+
+### Frontend
+
+* JavaScript
+* OWL
+* React
+* Vue.js
+* Blazor
+
+### Mobile
+
+* Flutter
+
+### Databases
+
+* PostgreSQL
+* SQL Server
+* MySQL
+* MongoDB
+
+### DevOps & Cloud
+
+* Docker
+* GitHub Actions
+* Azure
+* AWS
+* Kubernetes
 
 ---
 
-### 🛠️ Technology Stack
+## 🚀 What I Build
 
-My experience covers a broad spectrum of technologies, enabling me to design, develop, and deploy robust and scalable software solutions.
+* Custom **Odoo modules and ERP solutions**
+* Business workflow automation
+* REST API integrations
+* Third-party system integrations
+* Enterprise web applications
+* Database-driven applications
+* Cross-platform applications with Flutter
+* Containerized and CI/CD-ready deployments
 
-**Expertise**
-
-* **Back-End:** Python, Django, .NET
-* **ERP/CRM:** Odoo (OWL, XML-RPC)
-* **Front-End & Mobile:** JavaScript, Flutter
-* **Databases:** PostgreSQL, SQL Server
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/jonasbonilla) or check out my work on my [Personal Portfolio](http://biiasolutions.com/).
-
-**Frameworks and Platforms**
-
-* **Odoo (v16–18):** Extensive experience in developing and customizing ERP modules, leveraging its framework and the **Odoo Web Library (OWL)** for frontend development.
-* **.NET:** Development of web, desktop, and API applications using **ASP.NET Core**, as well as interactive web apps with **Blazor**.
-* **Flutter:** Building natively compiled interfaces for mobile, web, and desktop from a single codebase.
-* **Node.js:** Developing efficient backend services and APIs.
-* **Web Frontend:** Skilled in libraries such as **React** and **Vue.js** for building Single Page Applications (SPAs).
-
-**Databases**
-
-* **Relational:** Strong experience in the design, optimization, and management of **SQL Server**, **PostgreSQL**, and **MySQL**.
-* **NoSQL:** Proficient in document-oriented databases such as **MongoDB**, ideal for flexible and scalable solutions.
-
-**DevOps, Cloud, and Architectures**
-
-* **Containerization:** Using **Docker** to build, manage, and deploy containerized applications, ensuring environment consistency.
-* **API Architecture:** Designing and developing secure, efficient, and scalable **RESTful APIs**.
-* **CI/CD:** Implementing continuous integration and deployment pipelines using tools like **GitHub Actions**.
-* **Cloud:** Familiar with **Azure** and **AWS** platforms for solution deployment and management.
-* **Orchestration:** Basic knowledge of **Kubernetes** for automating deployment and scaling of applications.
-
-### 🚀 Featured Projects
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="#" target="_blank">
-        <img src="./static/img/odoo.webp" alt="Módulos para Odoo"/>
-      </a>
-      <br/>
-      <strong>Custom Odoo Modules, at NOSOLOTEC S.A.</strong>
-      <p>Developed tailor-made Odoo modules designed to meet the specific needs of the company’s clients.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="#" target="_blank">
-        <img src="./static/img/flutter.webp" alt="Apps Flutter"/>
-      </a>
-      <br/>
-      <strong>Flutter Apps, at NOSOLOTEC S.A.</strong>
-      <p>Developed a WMS-type mobile application for one of the company’s clients.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-        <img src="https://img.shields.io/badge/API%20REST-orange?style=for-the-badge" alt="API REST"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" >
-      <a href="#" target="_blank">
-        <img src="./static/img/sofadcon.webp" alt="SofAdCon software contable"/>
-      </a>
-      <br/>
-      <strong>Contributions at SofAdCon Cía. Ltda.</strong>
-      <p>Former member of the development team for SofAdCon’s Web and Mobile versions, built with .NET (Blazor & MAUI).</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-        <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor"/>
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
-      </p>
-    </td>
-     <td width="50%" valign="top">
-      <a href="#" target="_blank">
-        <img src="./static/img/latin.webp" alt="Plataforma de giros (odoo)"/>
-      </a>
-      <br/>
-      <strong>Remittance App for Latinvoip</strong>
-      <p>Web application for calculating remittance commissions to Colombia, Venezuela, and other countries.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>     
-      </p>
-    </td>
-  </tr>
-</table>
 ---
 
-### ⛓️ Exploring the Crypto and Blockchain Universe
+## 🧩 Odoo
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/Tether-26A17B?style=for-the-badge&logo=tether&logoColor=white" alt="Tether"/>
-</p>
+My main area of specialization is **Odoo development and customization**.
 
-Passionate about the disruptive potential of blockchain technology and the cryptocurrency ecosystem.
+I work with the Odoo framework to build business solutions across the backend and frontend, combining:
 
-* **Active Researcher:** Exploring the fundamentals of Distributed Ledger Technology (DLT), Decentralized Finance (DeFi), and asset tokenization.
-* **Smart Contracts:** Interested in the development and auditing of smart contracts on platforms such as Ethereum.
-* **Bitcoin and Innovation Layers:** Studying Bitcoin’s role as a store of value and second-layer scalability solutions like the Lightning Network.
+* Python and the Odoo ORM
+* PostgreSQL
+* XML views and QWeb
+* OWL and JavaScript
+* Scheduled jobs and automated workflows
+* External API integrations
+* Custom business logic
+* Module development and customization
 
-### Contact
+---
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jonas.b0891) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jonas.b0891) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonasbonilla) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jonasb0891) 
+## ₿ Exploring Bitcoin & Blockchain
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@jonasb0891) 
+I'm also interested in the technical side of decentralized systems and blockchain technology.
+
+Current areas of research include:
+
+* Bitcoin architecture and the UTXO model
+* Lightning Network
+* Distributed Ledger Technology
+* DeFi
+* Asset tokenization
+* Ethereum and smart contracts
+* Smart contract security and auditing
+
+---
+
+## 📌 Featured Projects
+
+> Selected projects will be added here.
+
+---
+
+## 🔗 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/jonasbonilla)
+* [Personal Website](http://biiasolutions.com/)
+
+---
+
+## 💰 Support
+
+If you find any of my projects useful and want to support my work, you can donate below.
