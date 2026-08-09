@@ -6,6 +6,8 @@ I'm a software engineer focused on **business applications, ERP development, and
 
 I specialize in **Odoo development**, building and customizing ERP solutions with Python, PostgreSQL, XML, and OWL. I also develop backend and full-stack applications using **.NET, Django, JavaScript, and modern web technologies**.
 
+I'm **technically certified in Odoo 17 and Odoo 18**, with hands-on experience working on projects across newer Odoo versions. I currently work with **Odoo 19 projects** and continuously keep up with the platform's evolution, including being prepared for the upcoming **Odoo 20** release.
+
 I enjoy turning complex business requirements into reliable software, integrating systems through APIs, and automating processes that humans probably shouldn't have to repeat 400 times a day.
 
 ---
@@ -14,7 +16,10 @@ I enjoy turning complex business requirements into reliable software, integratin
 
 ### ERP & Business Applications
 
-* **Odoo 16–18**
+* **Odoo 17 — Technical Certified**
+* **Odoo 18 — Technical Certified**
+* **Odoo 19 — Project Experience**
+* **Odoo 20 — Preparing for the Next Generation**
 * Python
 * Odoo ORM
 * OWL
@@ -58,6 +63,40 @@ I enjoy turning complex business requirements into reliable software, integratin
 
 ---
 
+## 🧩 Odoo
+
+**Odoo is my main area of specialization.**
+
+I am **technically certified in Odoo 17 and Odoo 18**, with practical experience developing and customizing ERP solutions across multiple Odoo generations.
+
+My current experience includes **Odoo 19 projects**, while staying up to date with the platform's architecture and preparing for the transition to **Odoo 20**.
+
+I work across both backend and frontend development, combining:
+
+* Python and the Odoo ORM
+* PostgreSQL
+* XML views and QWeb
+* OWL and JavaScript
+* Custom module development
+* Business logic and workflows
+* Scheduled actions and automation
+* External API integrations
+* XML-RPC integrations
+* ERP customizations
+* Version upgrades and adaptation
+* Performance and database optimization
+
+### Odoo Version Experience
+
+| Version     | Experience                   |
+| ----------- | ---------------------------- |
+| **Odoo 17** | 🏅 Technical Certified       |
+| **Odoo 18** | 🏅 Technical Certified       |
+| **Odoo 19** | 🚀 Active Project Experience |
+| **Odoo 20** | 🔄 Preparing / Next Version  |
+
+---
+
 ## 🚀 What I Build
 
 * Custom **Odoo modules and ERP solutions**
@@ -68,23 +107,6 @@ I enjoy turning complex business requirements into reliable software, integratin
 * Database-driven applications
 * Cross-platform applications with Flutter
 * Containerized and CI/CD-ready deployments
-
----
-
-## 🧩 Odoo
-
-My main area of specialization is **Odoo development and customization**.
-
-I work with the Odoo framework to build business solutions across the backend and frontend, combining:
-
-* Python and the Odoo ORM
-* PostgreSQL
-* XML views and QWeb
-* OWL and JavaScript
-* Scheduled jobs and automated workflows
-* External API integrations
-* Custom business logic
-* Module development and customization
 
 ---
 
