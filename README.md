@@ -111,8 +111,8 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/jonasbonilla) or check
       <strong>Remittance App for Latinvoip</strong>
       <p>Web application for calculating remittance commissions to Colombia, Venezuela, and other countries.</p>
       <p align="center">
+        <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>     
       </p>
     </td>
