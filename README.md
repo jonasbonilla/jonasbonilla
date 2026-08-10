@@ -121,7 +121,7 @@ Bitcoin · Lightning Network · DeFi · Tokenization · Ethereum · Smart Contra
 ## 🔗 Connect
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/jonasbonilla)
-* 🌐 [Personal Website](http://biiasolutions.com/)
+* 🌐 [Personal Website](https://jbbonilla.dev/)
 
 ---
 
