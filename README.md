@@ -1,65 +1,16 @@
-# Software Engineer | Odoo & Full-Stack Development
+# 👋 Hi, I'm Jonás
 
-### 👋 Hi, I'm Jonás
+## Software Engineer | Odoo & Full-Stack Development
 
 I'm a software engineer focused on **business applications, ERP development, and process automation**.
 
-I specialize in **Odoo development**, building and customizing ERP solutions with Python, PostgreSQL, XML, and OWL. I also develop backend and full-stack applications using **.NET, Django, JavaScript, and modern web technologies**.
+My main area of specialization is **Odoo development**, where I build and customize ERP solutions using Python, PostgreSQL, XML, JavaScript, and OWL.
 
-I'm **technically certified in Odoo 17 and Odoo 18**, with hands-on experience working on projects across newer Odoo versions. I currently work with **Odoo 19 projects** and continuously keep up with the platform's evolution, including being prepared for the upcoming **Odoo 20** release.
+I'm **Odoo Functional Certified in versions 17 and 18**, and I have completed technical training in **Odoo's Python Framework and Odoo.sh** with Odoo 19. I also have hands-on experience working on **Odoo 19 projects** and continuously keep up with the evolution of the platform.
+
+Beyond Odoo, I develop backend and full-stack applications using **Python, Django, .NET, JavaScript, Node.js, React, Vue.js, and Flutter**.
 
 I enjoy turning complex business requirements into reliable software, integrating systems through APIs, and automating processes that humans probably shouldn't have to repeat 400 times a day.
-
----
-
-## 🛠️ Core Technologies
-
-### ERP & Business Applications
-
-* **Odoo 17 — Technical Certified**
-* **Odoo 18 — Technical Certified**
-* **Odoo 19 — Project Experience**
-* **Odoo 20 — Preparing for the Next Generation**
-* Python
-* Odoo ORM
-* OWL
-* XML / QWeb
-* XML-RPC / API integrations
-* Business process automation
-
-### Backend
-
-* **Python / Django**
-* **C# / ASP.NET Core**
-* Node.js
-* REST APIs
-
-### Frontend
-
-* JavaScript
-* OWL
-* React
-* Vue.js
-* Blazor
-
-### Mobile
-
-* Flutter
-
-### Databases
-
-* PostgreSQL
-* SQL Server
-* MySQL
-* MongoDB
-
-### DevOps & Cloud
-
-* Docker
-* GitHub Actions
-* Azure
-* AWS
-* Kubernetes
 
 ---
 
@@ -67,52 +18,130 @@ I enjoy turning complex business requirements into reliable software, integratin
 
 **Odoo is my main area of specialization.**
 
-I am **technically certified in Odoo 17 and Odoo 18**, with practical experience developing and customizing ERP solutions across multiple Odoo generations.
+I develop and customize ERP solutions across different Odoo versions, working on both backend business logic and frontend interfaces.
 
-My current experience includes **Odoo 19 projects**, while staying up to date with the platform's architecture and preparing for the transition to **Odoo 20**.
+### Odoo Expertise
 
-I work across both backend and frontend development, combining:
-
-* Python and the Odoo ORM
-* PostgreSQL
-* XML views and QWeb
-* OWL and JavaScript
+* Python & Odoo ORM
 * Custom module development
-* Business logic and workflows
-* Scheduled actions and automation
+* PostgreSQL
+* XML views
+* QWeb
+* OWL & JavaScript
+* Business workflows and automation
+* Scheduled actions
 * External API integrations
-* XML-RPC integrations
-* ERP customizations
-* Version upgrades and adaptation
-* Performance and database optimization
+* XML-RPC
+* REST integrations
+* ERP customization
+* Database optimization
+* Module architecture
+* Version upgrades and adaptations
 
 ### Odoo Version Experience
 
-| Version     | Experience                   |
-| ----------- | ---------------------------- |
-| **Odoo 17** | 🏅 Technical Certified       |
-| **Odoo 18** | 🏅 Technical Certified       |
-| **Odoo 19** | 🚀 Active Project Experience |
-| **Odoo 20** | 🔄 Preparing / Next Version  |
+| Version     | Experience                           |
+| ----------- | ------------------------------------ |
+| **Odoo 17** | 🏆 Functional Certified              |
+| **Odoo 18** | 🏆 Functional Certified              |
+| **Odoo 19** | 🚀 Active Project Experience         |
+| **Odoo 20** | 🔄 Preparing for the Next Generation |
+
+---
+
+## 🏆 Odoo Certifications & Training
+
+### Functional Certifications
+
+* [**Odoo 17 Functional Certification**](https://www.odoo.com/)
+* [**Odoo 18 Functional Certification**](https://www.odoo.com/es/slides/certificacion-funcional-de-odoo-18-espanol-451)
+
+### Technical Training
+
+* **Technical Training: Introduction to Odoo's Python Framework**
+
+  * Odoo 19
+  * Odoo.sh
+
+---
+
+## 🛠️ Technology Stack
+
+### Backend
+
+* **Python**
+* **Django**
+* **C# / .NET**
+* **ASP.NET Core**
+* **Node.js**
+* RESTful APIs
+
+### Frontend
+
+* **JavaScript**
+* **OWL**
+* **React**
+* **Vue.js**
+* **Blazor**
+* XML / QWeb
+
+### Mobile
+
+* **Flutter**
+
+### Databases
+
+* **PostgreSQL**
+* **SQL Server**
+* **MySQL**
+* **MongoDB**
+
+### DevOps & Cloud
+
+* **Docker**
+* **GitHub Actions**
+* **Azure**
+* **AWS**
+* **Kubernetes**
 
 ---
 
 ## 🚀 What I Build
 
 * Custom **Odoo modules and ERP solutions**
-* Business workflow automation
-* REST API integrations
+* Business process automation
+* Complex business workflows
+* RESTful API integrations
 * Third-party system integrations
 * Enterprise web applications
 * Database-driven applications
 * Cross-platform applications with Flutter
-* Containerized and CI/CD-ready deployments
+* Containerized applications
+* CI/CD pipelines
+* Cloud-based deployments
+
+---
+
+## 🏗️ Engineering Interests
+
+I'm particularly interested in designing software that connects business processes, data, and automation.
+
+Some of the areas I enjoy working on include:
+
+* ERP architecture
+* Business process automation
+* Distributed systems
+* API architecture
+* Database design and optimization
+* Software integrations
+* Enterprise application development
+* Developer tooling and automation
 
 ---
 
 ## ₿ Exploring Bitcoin & Blockchain
 
-I'm also interested in the technical side of decentralized systems and blockchain technology.
+I'm also interested in the technical side of **Bitcoin, blockchain, and decentralized systems**.
 
 Current areas of research include:
 
@@ -121,24 +150,45 @@ Current areas of research include:
 * Distributed Ledger Technology
 * DeFi
 * Asset tokenization
-* Ethereum and smart contracts
+* Ethereum
+* Smart contracts
 * Smart contract security and auditing
+
+I'm particularly interested in understanding these technologies from an engineering perspective rather than simply following the market around them.
 
 ---
 
 ## 📌 Featured Projects
 
-> Selected projects will be added here.
+Some of my projects and experiments are available in my repositories.
+
+### Areas of interest
+
+* Odoo modules and ERP customizations
+* Backend services and APIs
+* Automation tools
+* Database-driven applications
+* Blockchain experiments
+* Developer tooling
 
 ---
 
-## 🔗 Connect
+## 📊 GitHub Stats
 
-* [LinkedIn](https://www.linkedin.com/in/jonasbonilla)
-* [Personal Website](http://biiasolutions.com/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonasbonilla&show_icons=true&theme=tokyonight&hide_border=true" alt="Jonás's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbonilla&layout=compact&theme=tokyonight&hide_border=true" alt="Jonás's Top Languages" />
+</p>
 
 ---
 
-## 💰 Support
+## 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/jonasbonilla)
+* 🌐 [Personal Website](http://biiasolutions.com/)
+
+---
+
+## 💰 Support My Work
 
 If you find any of my projects useful and want to support my work, you can donate below.
