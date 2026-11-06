@@ -6,11 +6,11 @@ Software engineer specialized in **Odoo ERP, business automation, and full-stack
 
 I build and customize business solutions using **Python, PostgreSQL, OWL, JavaScript, and .NET**, with a strong focus on ERP development, integrations, and process automation.
 
-🎓 **Master's in Artificial Intelligence (In Progress)** – Universidad Internacional de Valencia (VIU)
-🏆 **Odoo 17 & 18 Functional Certified**
-🚀 **Odoo 19 Project Experience**
-🛠️ **Odoo 19 Python Framework & Odoo.sh Technical Training**
-🔄 **Ready for Odoo 20**
+- 🎓 **Master's in Artificial Intelligence (In Progress)** – Universidad Internacional de Valencia (VIU)
+- 🏆 **Odoo 17 & 18 Functional Certified**
+- 🚀 **Odoo 19 Project Experience**
+- 🛠️ **Odoo 19 Python Framework & Odoo.sh Technical Training**
+- 🔄 **Work in Odoo 20**
 
 ---
 
