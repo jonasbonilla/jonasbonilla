@@ -6,6 +6,7 @@ Software engineer specialized in **Odoo ERP, business automation, and full-stack
 
 I build and customize business solutions using **Python, PostgreSQL, OWL, JavaScript, and .NET**, with a strong focus on ERP development, integrations, and process automation.
 
+🎓 **Master's in Artificial Intelligence (In Progress)** – Universidad Internacional de Valencia (VIU)
 🏆 **Odoo 17 & 18 Functional Certified**
 🚀 **Odoo 19 Project Experience**
 🛠️ **Odoo 19 Python Framework & Odoo.sh Technical Training**
@@ -17,15 +18,15 @@ I build and customize business solutions using **Python, PostgreSQL, OWL, JavaSc
 
 **Main specialization:** Odoo ERP development and customization.
 
-* Custom modules & business logic
-* Python / Odoo ORM
-* OWL & JavaScript
-* XML / QWeb
-* PostgreSQL
-* API & XML-RPC integrations
-* Business workflows & automation
-* Database optimization
-* Version upgrades & adaptations
+- Custom modules & business logic
+- Python / Odoo ORM
+- OWL & JavaScript
+- XML / QWeb
+- PostgreSQL
+- API & XML-RPC integrations
+- Business workflows & automation
+- Database optimization
+- Version upgrades & adaptations
 
 ---
 
@@ -102,7 +103,7 @@ ERP solutions · Business automation · REST APIs · System integrations · Ente
       <p align="center">
         <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>     
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>      
       </p>
     </td>
   </tr>
@@ -120,8 +121,8 @@ Bitcoin · Lightning Network · DeFi · Tokenization · Ethereum · Smart Contra
 
 ## 🔗 Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/jonasbonilla)
-* 🌐 [Personal Website](https://jbbonilla.dev/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jonasbonilla)
+- 🌐 [Personal Website](https://jbbonilla.dev/)
 
 ---
 
